@@ -1,4 +1,4 @@
-# This script prints out sets of numbers that satisfy the equation p(x + y) = ab for integers
+# This script prints out sets of numbers that satisfy the equation p(x + y) = xy for integers
 
 # Multiplier
 p = 5
